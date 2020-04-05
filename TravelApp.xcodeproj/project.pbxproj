@@ -13,6 +13,7 @@
 		FA4A570A2439CA1A00345C3B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA4A57092439CA1A00345C3B /* Assets.xcassets */; };
 		FA4A570D2439CA1A00345C3B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA4A570C2439CA1A00345C3B /* Preview Assets.xcassets */; };
 		FA4A57102439CA1A00345C3B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA4A570E2439CA1A00345C3B /* LaunchScreen.storyboard */; };
+		FA4A5718243A1E7B00345C3B /* BannerDemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4A5717243A1E7B00345C3B /* BannerDemoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FA4A570C2439CA1A00345C3B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FA4A570F2439CA1A00345C3B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA4A57112439CA1A00345C3B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA4A5717243A1E7B00345C3B /* BannerDemoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BannerDemoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				FA4A57032439CA1700345C3B /* AppDelegate.swift */,
 				FA4A57052439CA1700345C3B /* SceneDelegate.swift */,
 				FA4A57072439CA1700345C3B /* ContentView.swift */,
+				FA4A5717243A1E7B00345C3B /* BannerDemoView.swift */,
 				FA4A57092439CA1A00345C3B /* Assets.xcassets */,
 				FA4A570E2439CA1A00345C3B /* LaunchScreen.storyboard */,
 				FA4A57112439CA1A00345C3B /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA4A57042439CA1700345C3B /* AppDelegate.swift in Sources */,
+				FA4A5718243A1E7B00345C3B /* BannerDemoView.swift in Sources */,
 				FA4A57062439CA1700345C3B /* SceneDelegate.swift in Sources */,
 				FA4A57082439CA1700345C3B /* ContentView.swift in Sources */,
 			);
